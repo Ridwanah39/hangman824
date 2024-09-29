@@ -16,10 +16,13 @@ In this project, I learned about:
 2. Navigate to the project directory
 3. Install any required Python libraries
 ### Usage Instructions 
-1. Run the Python script to start the Hangman game
-2. Follow the on-screen instructions to play the game
--- Enter a single letter to guess the word.
--- You will recieve feedback on whether your guess was correct or not.
+**Objective**: Guess the word one letter at a time before you run out of lives.
+- **How to Play**:
+1. You will be shown a word in the form of underscores (`_`), each underscore representing a letter of the word.
+2. Guess letters by typing one letter at a time when prompted.
+3. If you guess correctly, the letter will replace the corresponding underscores.
+4. If you guess incorrectly, you will lose a life.
+5. You have 5 lives. The game ends when you either guess all the letters or lose all your lives.
 ### File Structure
 My-Test-PR/
 |
