@@ -6,9 +6,11 @@ This  project is a Python-based Hangman game where the user attempts to guess a 
 This project aims to practice working with lists, user input validation, conditionals, and Pythons's built-in modules such as random.
 #### What I have Learned
 In this project, I learned about:
-- Using Python's built-in random module.
-- Input validation using string methods like .isalpga().
-- Structuring a Python project and working with basic Git operations
+- To practice Python programming concepts.
+- To implement Object-Orientated Programming by using classes and methods.
+- Structuring a Python project and working with basic Git operations.
+- To build a simple console game where the users interact via text input.
+- How to refactor code for clarity and maintainability.
 ### Installation Instructions
 1. Clone the repository to your local machine
 2. Navigate to the project directory
