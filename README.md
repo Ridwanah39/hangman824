@@ -10,19 +10,19 @@ In this project, I learned about:
 - Input validation using string methods like .isalpga().
 - Structuring a Python project and working with basic Git operations
 ### Installation Instructions
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine
 2. Navigate to the project directory
 3. Install any required Python libraries
 ### Usage Instructions 
 1. Run the Python script to start the Hangman game
 2. Follow the on-screen instructions to play the game
-3. - Enter a single letter to guess the word.
-   - You will recieve feedback on whether your guess was correct or not.
+-- Enter a single letter to guess the word.
+-- You will recieve feedback on whether your guess was correct or not.
 ### File Structure
 My-Test-PR/
-│
+|
 ├── milestone_2.py          # Main Python script that runs the game
 ├── README.md               # Documentation file (this file)
 └── requirements.txt        # Python dependencies, if any
 ### License Information
-This project is licensed under the MIT License 
+This project is licensed under the MIT License. 
